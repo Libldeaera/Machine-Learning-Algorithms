@@ -1,6 +1,6 @@
 # Machine Learning Algorithms
 
-## Types of Common Machine Learning Algorithms
+## List of Common Machine Learning Algorithms
 Here is the list of commonly used machine learning algorithms. 
 
 These algorithms can be applied to almost any data problem:
@@ -19,3 +19,19 @@ These algorithms can be applied to almost any data problem:
   - XGBoost
   - LightGBM
   - CatBoost
+
+## Types of Machine Learning
+### Supervised Learning
+- Decision Tree
+- kNN
+- Random Forest
+- Logistic Regression
+
+### Unsupevised Learning
+- Apriori Algorithm
+- k-Means
+- Hierarhical Clustering
+
+### Reinforcement Learning
+- Markov Decision Process
+- Q Learning
